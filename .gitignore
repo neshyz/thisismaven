@@ -1,0 +1,9 @@
+# configuracion vscode
+.vscode
+
+# manifiesto
+META-INF
+
+
+# mvn target output
+target
